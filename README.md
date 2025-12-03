@@ -4,7 +4,7 @@
 
 
 ## 🧩 Competitive Programming
-[![LeetCode Stats](https://leetcard.jacoblin.cool/am_prasad?theme=dark&ext=contest)](https://leetcode.com/u/am_prasad/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/am_prasad?theme=dark&ext=contest)](https://leetcode.com/u/am__prasad/)
 
 ---
 
