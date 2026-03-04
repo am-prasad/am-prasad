@@ -3,8 +3,7 @@
 [![@am-prasad’s GitHub stats](https://github-readme-stats.vercel.app/api?username=am-prasad&show_icons=true&theme=dark)](https://github.com/am-prasad)  
 
 
-## 🧩 Competitive Programming
-[![LeetCode Stats](https://leetcard.jacoblin.cool/am_prasad?theme=dark&ext=contest)](https://leetcode.com/u/am__prasad/)
+
 
 ---
 
